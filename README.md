@@ -7,7 +7,7 @@ Here's a list of projects included in this repository:
 
 1. **Hello World**: A simple "Hello, World!" example to demonstrate the basic setup of a React application.
 2. **Counter**: A project showcasing how to manage state in React by building a simple counter application.
-3. **Todo List**: A basic todo list application to understand how to create, update, and delete items using React state.
+3. **Tic-tac-toe**: A simple game of Tic-tac-toe.
 4. **Random Quote Generator**: A project demonstrating how to fetch data from an API and display it dynamically in a React application.
 5. **Weather App**: A simple weather application that utilizes an external API to fetch weather data based on user input.
 6. **User Authentication**: An example of user authentication using React Router and state management techniques.
